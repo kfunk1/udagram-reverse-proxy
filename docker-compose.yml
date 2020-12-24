@@ -38,4 +38,4 @@ services:
   frontend:
     image: kbessetteudacity/udagram-frontend
     ports:
-      - "8080:80"
+      - "8100:80"
